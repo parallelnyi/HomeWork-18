@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HomeWork-18/static/css/main.cf602441.css",
+    "main.js": "/HomeWork-18/static/js/main.e680f1f9.js",
+    "index.html": "/HomeWork-18/index.html",
+    "main.cf602441.css.map": "/HomeWork-18/static/css/main.cf602441.css.map",
+    "main.e680f1f9.js.map": "/HomeWork-18/static/js/main.e680f1f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf602441.css",
+    "static/js/main.e680f1f9.js"
+  ]
+}
